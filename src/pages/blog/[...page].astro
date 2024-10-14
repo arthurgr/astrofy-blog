@@ -11,6 +11,8 @@ export async function getStaticPaths({ paginate }) {
 }
 
 const { page } = Astro.props;
+
+export const prerender = true;
 ---
 
 <BaseLayout title="Blog" sideBarActiveItemID="blog">

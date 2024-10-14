@@ -19,6 +19,8 @@ interface Props {
 const { entry } = Astro.props;
 const post: BlogSchema = entry.data;
 const { Content } = await entry.render();
+
+export const prerender = true;
 ---
 
 <PostLayout
