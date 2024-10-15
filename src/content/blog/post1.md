@@ -1,9 +1,10 @@
 ---
 title: "State and State Management: My Take"
 description: "When I began transitioning my career from graphic design to software engineering, one of the concepts I wish I had a better grasp of was state: what exactly it is and how it affects my application."
-pubDate: "Sep 10 2022"
+pubDate: "Sep 10 2024"
 heroImage: "/state_img.webp"
-tags: ["state"]
+badge: "NEW"
+tags: ["code"]
 ---
 
 When I began transitioning my career from graphic design to software engineering, one of the concepts I wish I had a better grasp of was **state**: what exactly it is and how it affects my application.
