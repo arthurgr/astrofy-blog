@@ -29,3 +29,5 @@ Streams formed from last year’s snowmelt added to the mystique of the hike. We
 After the challenging climb, we finally reached our destination. Every bit of effort was absolutely worth it. The lake was unlike anything I've ever seen. The crystal-clear water reflected the surrounding peaks, and there was an eerie yet peaceful silence. All the other hikers seemed to respect that quiet, which made the moment even more special. Sitting there, taking in the view, felt almost meditative. After initially worrying about making it, I was so glad we put in the effort.
 
 If you're willing and able, I highly recommend this hike. It’s like no place I’ve ever been, and it really makes me appreciate my home even more.
+
+Check out the <a href="https://www.alltrails.com/trail/us/colorado/chasm-lake" target="_blank">all trails page</a> for more information.
