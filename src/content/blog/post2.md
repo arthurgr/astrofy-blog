@@ -3,7 +3,8 @@ title: "Chasm Lake"
 description: "Join me on a 9-mile hike to Chasm Lake in Estes Park, Colorado, where stunning views and a challenging rock scramble lead to one of the most peaceful, rewarding destinations I've ever experienced. From breathtaking mountain scenery to crystal-clear waters, this adventure was truly unforgettable."
 pubDate: "Oct 11 2024"
 heroImage: "/blog/post2/chasmLake.webp"
-tags: ["Outside"]
+tags: ["outside"]
+badge: "NEW"
 ---
 
 I went on a new hike to Chasm Lake in Estes Park, Colorado, with a friend over the weekend. It was a 9-mile round-trip hike with a 2,552-foot elevation gain. This was one of the most challenging hikes I've ever been on, with plenty of rock scrambling and steep inclines, but the end result was so worth it. The day was beautifully sunny—an ideal break from the hot summer we've had.
