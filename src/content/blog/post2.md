@@ -3,7 +3,6 @@ title: "Chasm Lake"
 description: "Join me on a 9-mile hike to Chasm Lake in Estes Park, Colorado, where stunning views and a challenging rock scramble lead to one of the most peaceful, rewarding destinations I've ever experienced. From breathtaking mountain scenery to crystal-clear waters, this adventure was truly unforgettable."
 pubDate: "Oct 11 2024"
 heroImage: "/blog/post2/chasmLake.webp"
-badge: "NEW"
 tags: ["outside"]
 ---
 
