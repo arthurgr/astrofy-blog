@@ -1,5 +1,5 @@
 ---
-title: "Extending Exisiting Design Systems"
+title: "Extending exisiting design systems"
 description: "Throughout my career on worked on extending existing design sytems, and created custom improvemnts using exisitng functionality to fit the project needs. Here are some tips, issues I've ran into, and things I wish I would have known when starting."
 pubDate: "Dec 21 2024"
 heroImage: "/blog/post3/desingSystems.webp"
