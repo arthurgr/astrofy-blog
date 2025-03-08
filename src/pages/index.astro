@@ -7,7 +7,7 @@ import createSlug from "../lib/createSlug"
 const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 // update this to show more blog posts
-const last_posts = posts.slice(0, 4);
+const last_posts = posts.slice(0, 5);
 ---
 
 <BaseLayout sideBarActiveItemID="home">
@@ -17,7 +17,7 @@ const last_posts = posts.slice(0, 4);
     <div class="text-3xl py-3 font-bold">Software Engineer & Outdoor Enthusiast</div>
     <div class="py-2">
       <text class="text-lg">
-        I thrive at creating intuitive user interfaces that scale seamlessly with robust functionality and optimal performance for <b>ALL</b> users. When I'm not learning about software development, I enjoy trying out new recipes, exploring the Colorado mountains, and staying active.
+        I thrive in creating intuitive applications that scale seamlessly while delivering robust functionality and optimal performance for <b>ALL</b> users. When I'm not learning about software development, I enjoy trying new recipes, exploring the Colorado mountains, and staying active.
       </text>
     </div>
     <div class="mt-8">
