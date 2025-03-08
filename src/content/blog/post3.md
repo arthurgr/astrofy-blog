@@ -4,7 +4,6 @@ description: "Throughout my career on worked on extending existing design sytems
 pubDate: "Dec 21 2024"
 heroImage: "/blog/post3/desingSystems.webp"
 tags: ["code"]
-badge: "NEW"
 ---
 
 Throughout my career, I've worked on lean development teams. We didn’t have the time or resources to develop our own custom design component systems, so we leveraged open-source design systems to move quickly and meet deadlines. When I say design systems, I mean something more robust than a utility library like Tailwind CSS—options with more built-out, opinionated components like Material UI, Ant Design, Bootstrap, and others.
