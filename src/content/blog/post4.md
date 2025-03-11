@@ -1,5 +1,5 @@
 ---
-title: "What makes a senior developer, besides code"
+title: "What Makes a Senior Developer Beyond Code"
 description: "Being a senior developer involves more than just coding. It requires setting expectations, managing emotions, and navigating diverse personalities. Throughout my career, I've met many \"senior\" engineers who excelled technically, but their leadership and interpersonal skills truly set them apart."
 pubDate: "Dec 1 2024"
 heroImage: "/blog/post4/senior-engineer.webp"

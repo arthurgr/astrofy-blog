@@ -7,7 +7,7 @@ tags: ["outside"]
 badge: "NEW"
 ---
 
-One of my best friends from college works on boats off the coast of Alaska, refilling coastal towns with gas and supplies. He works 40 days on and 40 days off. At his job, he has met all sorts of interesting characters—the job draws people from all over the world and is truly unique.
+One of my best friends from college works on boats off the coast of Alaska, delivering fuel and supplies to coastal towns. He works 40 days on and 40 days off. At his job, he has met all sorts of interesting characters—the job attracts people from all over the world.
 
 Several years ago, some of his coworkers told him about Utila, Honduras, a small island about an hour's ferry ride from the coast. On a whim, I decided to visit my old friend in this new and exciting place. Looking back, that trip changed my life in so many ways.
 
@@ -19,7 +19,7 @@ Immediately after landing, I knew this place was different from anywhere I had e
 
 After picking up my bags, my friend had arranged for a trusted driver, Johnny, to take me to the coastal town of La Ceiba, where I would catch a ferry to Utila. The ride was a highlight of the trip in many ways. It was amazing to see the countryside, roadside vendors, mountains, jungle, and the actual people of Honduras. I saw many people who didn’t have what I have, and it was eye-opening. It made me appreciate how lucky I am but also gave me an incredible opportunity to see the world from a perspective not many others experience.
 
-The drive took about four hours, and I had exactly four hours to make it to my ferry. It was a white-knuckle ride the entire way. I was exhausted from traveling and really wanted to make the ferry—and so did Johnny. Let’s just say traffic laws in Honduras seem to be a little different than in Denver, haha. Johnny drove like a bat out of hell to get me there on time.
+The drive took about four hours, and I had exactly four hours to make it to my ferry. It was a white-knuckle ride the entire way. I was exhausted from traveling and really wanted to make the ferry—and so did Johnny. Let’s just say traffic laws in Honduras seem to be a little different than in Denver, haha.
 
 Johnny was such a great person. He was learning English, and we spent the entire drive talking in a mix of English and Spanish. It was a lot of fun engaging in this way, and we helped each other learn our native languages.
 
@@ -33,7 +33,7 @@ After a bumpy ferry ride, I arrived in Utila and stepped off the boat. My friend
 
 If you've ever met someone you just click with, well, that's him for me. I grabbed my bags, and he rented a tuk-tuk to take me to his apartment. I was instantly impressed by his fluent Spanish—he had obviously been practicing during his time on the island.
 
-As I rode in the tuk-tuk, following my friend on his motorbike, I knew immediately this place was different. There were no cars on the island—only motorcycles. The roads were narrow and densely packed. It was incredible to be somewhere so unlike any place I had ever been before.
+As I rode in the tuk-tuk, following my friend on his motorbike, I knew immediately this place was different. There were no cars on the island—only motorcycles and bikes. The roads were narrow and densely packed. It was incredible to be somewhere so unlike any place I had ever been before.
 
 ![picture of road on Utila island at night](/blog/post5/night-road.webp)
 
@@ -43,7 +43,7 @@ As I rode in the tuk-tuk, following my friend on his motorbike, I knew immediate
 
 The next thing I needed to do was rent my own motorcycle for transportation. After all, I certainly wasn’t going to ride on the back of my friend’s bike the entire time!
 
-At first, I was a little apprehensive. What if I fell and got hurt? Was I ready for this? But after a few days, this became one of the most exciting parts of the trip. You haven’t lived until you’ve ridden a motorbike in a third-world country. Speeding down narrow roads, following my buddy to different parts of the island—it was such an adventure.
+At first, I was a little apprehensive. What if I fell and got hurt? Was I ready for this? But after a few days, this became one of the most exciting parts of the trip. You haven’t lived until you’ve ridden a motorbike in a third-world country haha. Speeding down narrow roads, following my buddy to different parts of the island—it was such an adventure.
 
 ![side road of Utila on a sunny day](/blog/post5/road1.webp)
 
@@ -69,7 +69,7 @@ At one point, a group of people arrived on horseback and tied up their horses ri
 
 ![view from bar patio overlooking the ocean and horses](/blog/post5/horses.webp)
 
-We also visited some of the more popular beaches on the island. I went during Honduras’ rainy season, so many places were relatively empty. But I welcomed the cooler weather and the more relaxed atmosphere. Coming from Colorado, the climate was a perfect change. Each beach was beautiful in its own way and a joy to explore.
+We also visited some of the more popular beaches on the island. I visited during Honduras’s rainy season, so many places were relatively empty. But I welcomed the cooler weather and the more relaxed atmosphere. Coming from Colorado, the climate was a perfect change. Each beach was beautiful in its own way and a joy to explore.
 
 ![local utilian beach](/blog/post5/bando-beach.webp)
 

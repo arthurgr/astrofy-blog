@@ -1,6 +1,6 @@
 ---
 title: "Chasm Lake"
-description: "Join me on a 9-mile hike to Chasm Lake in Estes Park, Colorado, where stunning views and a challenging rock scramble lead to one of the most peaceful, rewarding destinations I've ever experienced. From breathtaking mountain scenery to crystal-clear waters, this adventure was truly unforgettable."
+description: "Chasm Lake in Estes Park, Colorado, is a challenging 9-mile hike with a steep 2,552-foot elevation gain, featuring breathtaking mountain views and a final rock scramble to reach a pristine alpine lake. The journey offers stunning panoramas, narrow cliffside paths, and a sense of adventure as hikers navigate rocky terrain to the summit."
 pubDate: "Oct 11 2024"
 heroImage: "/blog/post2/chasmLake.webp"
 tags: ["outside"]
@@ -14,7 +14,7 @@ Halfway through the hike, looking back, we could see all the way to the Front Ra
 
 ![Panoramic view of the fron range](/blog/post2/chasmLake02.webp)
 
-As we broke through the treeline, the marked trail became more sparse, giving way to larger boulders and obstacles. We started to see glimpses of the valley where the lake is nestled, offering a preview of the beauty that awaited us. The air grew thinner, the steps steeper, and the difficulty increased with each step upward.
+As we broke through the treeline, the marked trail became more sparse, giving way to larger boulders and obstacles. We started to see glimpses of the valley where the lake is nestled, offering a preview of the beauty that awaited us. The air grew thinner, the steps steeper, and the difficulty increased with each step.
 
 ![View of boulder filed near the treeline](/blog/post2/chasmLake03.webp)
 
@@ -26,7 +26,7 @@ Streams formed from last year’s snowmelt added to the mystique of the hike. We
 
 ![Chasm Lake](/blog/post2/chasmLake05.webp)
 
-After the challenging climb, we finally reached our destination. Every bit of effort was absolutely worth it. The lake was unlike anything I've ever seen. The crystal-clear water reflected the surrounding peaks, and there was an eerie yet peaceful silence. All the other hikers seemed to respect that quiet, which made the moment even more special. Sitting there, taking in the view, felt almost meditative. After initially worrying about making it, I was so glad we put in the effort.
+After the challenging climb, we reached our destination. Every bit of effort was absolutely worth it. The lake was unlike anything I've ever seen. The crystal-clear water reflected the surrounding peaks, and there was an eerie yet peaceful silence. All the other hikers seemed to respect that quiet, which made the moment even more special. Sitting there, taking in the view, felt almost meditative. After initially worrying about making it, I was so glad we put in the effort.
 
 If you're willing and able, I highly recommend this hike. It’s like no place I’ve ever been, and it really makes me appreciate my home even more.
 
