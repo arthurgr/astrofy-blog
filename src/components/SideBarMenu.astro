@@ -1,11 +1,14 @@
 ---
 const { sideBarActiveItemID } = Astro.props;
 const activeClass = "bg-base-300"; // For primary color replace with `active` class
+import { getCollection } from "astro:content";
+
+const postsCount = (await getCollection("blog")).length;
 ---
 
 <ul class="menu grow shrink menu-md overflow-y-auto">
     <li><a class="py-3 text-base" id="home" href="/">Home</a></li>
-    <li><a class="py-3 text-base" id="blog" href="/blog/">Blog</a></li>
+    <li><a class="py-3 text-base" id="blog" href="/blog/">Blog ({postsCount})</a></li>
     <!--<li><a class="py-3 text-base" id="projects" href="/projects">Projects</a></li>-->
     <li><a class="py-3 text-base" id="cv" href="/cv">CV</a></li>
     <li>
