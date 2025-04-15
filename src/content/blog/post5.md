@@ -4,7 +4,6 @@ description: "Visiting my friend on the island of Utila, Honduras, was an unforg
 pubDate: "Feb 1 2025"
 heroImage: "/blog/post5/beach.webp"
 tags: ["outside"]
-badge: "NEW"
 ---
 
 One of my best friends from college works on boats off the coast of Alaska, delivering fuel and supplies to coastal towns. He works 40 days on and 40 days off. At his job, he has met all sorts of interesting characters—the job attracts people from all over the world.
