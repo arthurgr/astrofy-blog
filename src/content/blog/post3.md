@@ -2,7 +2,7 @@
 title: "Extending Design Systems Effectively"
 description: "Throughout my career, I have worked on extending existing design systems, and created custom improvements using existing functionality to fit the project needs. Here are some tips / issues I've run into, and things I wish I had known when starting."
 pubDate: "Dec 21 2024"
-heroImage: "/blog/post3/desingSystems.webp"
+heroImage: "/blog/post3/designSystems.webp"
 tags: ["code"]
 ---
 
