@@ -4,7 +4,6 @@ description: "Staying current in the ever-evolving world of software development
 pubDate: "April 4 2025"
 heroImage: "/blog/post6/staying-up-to-date.webp"
 tags: ["code"]
-badge: "NEW"
 ---
 
 One of the most important aspects of being a software developer is staying up to date in an ever-changing environment. Although many core principles like design patterns, domain-driven design, and general system architecture persist over the years, the technologies that apply these methodologies are constantly evolving. This is especially true with JavaScript.
