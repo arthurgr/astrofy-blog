@@ -4,7 +4,6 @@ description: "Discover how to use callback props to create flexible, reusable Re
 pubDate: "May 14 2025"
 heroImage: "/blog/post7/callback.webp"
 tags: ["code"]
-badge: "NEW"
 ---
 
 While at work, I was asked to implement a new feature that required a date picker as part of a form. When planning, the first question was: are there any elements in our current stack that we can reuse? After a quick search through the codebase, I found a date range filter that had been tailored to a specific use case. This presented a great opportunity to generalize the component and make it easier to reuse in multiple contexts. React is all about reusability. As an application grows, generalizing components helps eliminate headaches later and maintains a clear, consistent codebase.
