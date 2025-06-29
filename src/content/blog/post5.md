@@ -1,6 +1,6 @@
 ---
 title: "Utila, Honduras"
-description: "Visiting my friend on the island of Utila, Honduras, was an unforgettable adventure that pushed me out of my comfort zone and changed my perspective on life. The trip was more than just a vacation—it was a life-changing experience that deepened friendships, broadened my worldview, and left me with memories I’ll cherish forever."
+description: "Visiting my friend on the island of Utila, Honduras, was an unforgettable adventure that pushed me out of my comfort zone and changed my perspective on life. The trip was more than just a vacation, it was a life-changing experience that deepened friendships, broadened my worldview, and left me with memories I’ll cherish forever."
 pubDate: "Feb 1 2025"
 heroImage: "/blog/post5/beach.webp"
 tags: ["outside"]
