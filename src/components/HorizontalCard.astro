@@ -3,7 +3,11 @@ import dayjs from "dayjs";
 const { title, img, desc, url, badge, tags, target = "_blank", pubDate } = Astro.props;
 import { Image } from "astro:assets";
 const tag_url = url.split("/").slice(0, -1).join("/") + "/tag";
-const displayDate = dayjs(pubDate).format("ll")
+import localizedFormat from "dayjs/plugin/localizedFormat";
+import "dayjs/locale/en";
+dayjs.extend(localizedFormat);
+dayjs.locale("en");
+const displayDate = dayjs(pubDate).format("ll");
 ---
 
 <div
