@@ -1,9 +1,9 @@
 ---
 import dayjs from "dayjs";
-const { title, img, desc, url, badge, tags, target = "_blank", date } = Astro.props;
+const { title, img, desc, url, badge, tags, target = "_blank", pubDate } = Astro.props;
 import { Image } from "astro:assets";
 const tag_url = url.split("/").slice(0, -1).join("/") + "/tag";
-const displayDate = dayjs(date).format("ll")
+const displayDate = dayjs(pubDate).format("ll")
 ---
 
 <div
