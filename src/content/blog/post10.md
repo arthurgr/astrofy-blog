@@ -1,6 +1,6 @@
 ---
 title: "Why the hate for Java?"
-description: "I used to laugh when people rolled their eyes after hearing I use Java. Then I actually learned it. Here’s what I discovered moving from front-end frameworks to the world of Spring Boot and JPA."
+description: "“There are only two kinds of languages: the ones people complain about and the ones nobody uses.” Here’s what I discovered moving from front-end frameworks to the world of Spring Boot and JPA."
 pubDate: "Oct 1 2025"
 heroImage: "/blog/post10/java-hate.webp"
 tags: ["code"]
