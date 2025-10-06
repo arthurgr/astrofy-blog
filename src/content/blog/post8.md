@@ -4,7 +4,6 @@ description: "Bringing a legacy codebase up to modern standards takes more than 
 pubDate: "June 18 2025"
 heroImage: "/blog/post8/converting-legacy-codebases.webp"
 tags: ["code"]
-badge: "NEW"
 ---
 
 As a software engineer, working on a legacy codebase can be a painful experience that tests your patience and resolve. Layers of code written by numerous engineers, each working under different management styles, priorities, and methodologies, create complex and often frustrating challenges. As technical debt continues to pile up, the libraries and technologies often remain stagnant and drift further out of date. Meanwhile, new tools and frameworks are constantly being released, offering features that make development faster and more efficient.
