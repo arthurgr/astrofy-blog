@@ -4,7 +4,6 @@ description: "“There are only two kinds of languages: the ones people complain
 pubDate: "Oct 1 2025"
 heroImage: "/blog/post10/java-hate.webp"
 tags: ["code"]
-badge: "NEW"
 ---
 
 A couple of months ago, I went to a coding meetup in northern Colorado with professionals from all over the area. There were experts from all sorts of different fields, and I had a ton of great conversations with multiple people. One moment though really stood out. I was talking about the technologies I use, React, TypeScript, Postgres, and Java with Spring Boot. As soon as I mentioned Java, the person I was speaking with cringed and said, “I’m sorry.”
