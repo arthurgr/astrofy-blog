@@ -4,10 +4,12 @@ import HorizontalCard from "../components/HorizontalCard.astro";
 import { getCollection } from "astro:content";
 import createSlug from "../lib/createSlug"
 
-const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const blogPosts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const projectPosts = (await getCollection("project")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-// update this to show more blog posts
-const last_posts = posts.slice(0, 4);
+// update this to show more posts
+const last_blog_posts = blogPosts.slice(0, 4);
+const last_project_posts = projectPosts.slice(0, 4);
 ---
 
 <BaseLayout sideBarActiveItemID="home">
@@ -34,7 +36,29 @@ const last_posts = posts.slice(0, 4);
   </div>
 
   {
-    last_posts.map((post) => (
+    last_blog_posts.map((post) => (
+        <>
+          <HorizontalCard
+              title={post.data.title}
+              img={post.data.heroImage}
+              desc={post.data.description}
+              url={"/blog/" + createSlug(post.data.title, post.slug)}
+              target="_self"
+              badge={post.data.badge}
+              tags={post.data.tags}
+              pubDate={post.data.pubDate}
+          />
+          <div class="divider my-0" />
+        </>
+    ))
+  }
+
+  <div>
+    <div class="text-3xl w-full font-bold mb-2 mt-10">My last projects {"</>"}</div>
+  </div>
+
+  {
+    last_project_posts.map((post) => (
         <>
           <HorizontalCard
               title={post.data.title}

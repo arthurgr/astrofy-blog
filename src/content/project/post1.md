@@ -1,5 +1,5 @@
 ---
-title: "State and state management: my take"
+title: "State and State Management: My Take"
 description: "When I began transitioning my career from graphic design to software engineering, one of the concepts I wish I had a better grasp of was state: what exactly it is and how it affects my application."
 pubDate: "Sep 10 2024"
 heroImage: "/blog/post1/state_img.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Converting Legacy Code Bases"
+title: "Converting legacy code bases"
 description: "Bringing a legacy codebase up to modern standards takes more than just rewriting code. This guide covers real-world tips for planning, prioritizing, and executing a smooth and sustainable upgrade."
 pubDate: "June 18 2025"
 heroImage: "/blog/post8/converting-legacy-codebases.webp"

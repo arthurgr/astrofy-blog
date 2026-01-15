@@ -1,5 +1,5 @@
 ---
-title: "Chasm Lake"
+title: "Chasm lake"
 description: "Chasm Lake in Estes Park, Colorado, is a challenging 9-mile hike with a steep 2,552-foot elevation gain, featuring breathtaking mountain views and a final rock scramble to reach a pristine alpine lake. The journey offers stunning panoramas, narrow cliffside paths, and a sense of adventure as hikers navigate rocky terrain to the summit."
 pubDate: "Oct 11 2024"
 heroImage: "/blog/post2/chasmLake.webp"
