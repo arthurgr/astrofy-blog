@@ -5,7 +5,7 @@ import { getCollection } from "astro:content";
 import createSlug from "../lib/createSlug"
 
 const blogPosts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const projectPosts = (await getCollection("project")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const projectPosts = (await getCollection("projects")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 // update this to show more posts
 const last_blog_posts = blogPosts.slice(0, 4);
@@ -64,7 +64,7 @@ const last_project_posts = projectPosts.slice(0, 4);
               title={post.data.title}
               img={post.data.heroImage}
               desc={post.data.description}
-              url={"/blog/" + createSlug(post.data.title, post.slug)}
+              url={"/projects/" + createSlug(post.data.title, post.slug)}
               target="_self"
               badge={post.data.badge}
               tags={post.data.tags}
