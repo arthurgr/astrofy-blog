@@ -1,5 +1,5 @@
 ---
-title: "It all started with and Idea"
+title: "It all started with an Idea"
 description: "This is the story of how a simple conversation turned into the start of my first SaaS product. I outline the goals behind Mail Grub and why I decided to document the process."
 pubDate: "Feb 4 2026"
 heroImage: "/projects/mail-grub/fall-colors.webp"
