@@ -1,5 +1,5 @@
 ---
-title: "Staying Up To Date"
+title: "Staying up to date"
 description: "Staying current in the ever-evolving world of software development can be overwhelming. In this post, I’m sharing some of my favorite resources that consistently deliver value and help me stay at the top of my game."
 pubDate: "April 4 2025"
 heroImage: "/blog/post6/staying-up-to-date.webp"

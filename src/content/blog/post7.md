@@ -1,5 +1,5 @@
 ---
-title: "Callbacks, React Props, And Component Reusability"
+title: "Callbacks, React props, and component reusability"
 description: "Discover how to use callback props to create flexible, reusable React components, and learn best practices for defining and invoking callbacks to decouple component logic from external state management."
 pubDate: "May 14 2025"
 heroImage: "/blog/post7/callback.webp"

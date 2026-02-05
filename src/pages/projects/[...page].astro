@@ -1,0 +1,121 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import HorizontalCard from "../../components/HorizontalCard.astro";
+import { getCollection } from "astro:content";
+import createSlug from "../../lib/createSlug"
+
+export async function getStaticPaths({ paginate }) {
+  const allPosts = await getCollection("projects");
+  
+  // Group posts by project name
+  const projectMap = new Map<string, typeof allPosts[0][]>();
+  
+  for (const post of allPosts) {
+    const projectName = post.data.project;
+    if (!projectMap.has(projectName)) {
+      projectMap.set(projectName, []);
+    }
+    projectMap.get(projectName)!.push(post);
+  }
+  
+  // Create project entries with the most recent post's data for display
+  const projects = Array.from(projectMap.entries()).map(([projectName, posts]) => {
+    // Sort posts by date and get the most recent one for display
+    const sortedPosts = [...posts].sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+    const latestPost = sortedPosts[0];
+    
+    return {
+      name: projectName,
+      slug: createSlug(projectName, projectName),
+      description: latestPost.data.description,
+      heroImage: latestPost.data.heroImage,
+      pubDate: latestPost.data.pubDate,
+      badge: latestPost.data.badge,
+      tags: latestPost.data.tags,
+      postCount: posts.length,
+    };
+  });
+  
+  // Sort projects by most recent post date
+  projects.sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
+  
+  return paginate(projects, { pageSize: 10 });
+}
+
+const { page } = Astro.props;
+
+export const prerender = true;
+---
+
+<BaseLayout title="projects" sideBarActiveItemID="projects">
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Projects</div>
+  </div>
+  {
+    page.data.length === 0 ? (
+      <div class="bg-base-200 border-l-4 border-secondary w-full p-4 min-w-full">
+        <p class="font-bold">Sorry!</p>
+        <p>There are no projects to show at the moment. Check back later!</p>
+      </div>
+    ) : (
+      <ul>
+        {page.data.map((project) => (
+          <>
+            <HorizontalCard
+              title={project.name}
+              img={project.heroImage}
+              desc={project.description}
+              url={"/projects/" + project.slug}
+              target="_self"
+              badge={project.badge}
+              tags={project.tags}
+              pubDate={project.pubDate}
+            />
+            <div class="divider my-0" />
+          </>
+        ))}
+      </ul>
+    )
+  }
+
+  <div class="flex justify-between">
+    {
+      page.url.prev ? (
+        <a href={page.url.prev} class="btn btn-ghost my-10 mx-5">
+          {" "}
+          <svg
+            class="h-6 w-6 fill-current md:h-8 md:w-8"
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+          >
+            <path d="M15.41,16.58L10.83,12L15.41,7.41L14,6L8,12L14,18L15.41,16.58Z" />
+          </svg>{" "}
+          Recent posts
+        </a>
+      ) : (
+        <div />
+      )
+    }
+    {
+      page.url.next ? (
+        <a href={page.url.next} class="btn btn-ghost my-10 mx-5">
+          Older Posts{" "}
+          <svg
+            class="h-6 w-6 fill-current md:h-8 md:w-8"
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+          >
+            {" "}
+            <path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" />
+          </svg>
+        </a>
+      ) : (
+        <div />
+      )
+    }
+  </div>
+</BaseLayout>
