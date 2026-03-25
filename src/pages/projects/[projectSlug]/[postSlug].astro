@@ -1,6 +1,6 @@
 ---
-import { CollectionEntry, getCollection } from "astro:content";
-import { projectSchema } from "../../../../content.config.ts";
+import { CollectionEntry, getCollection, render } from "astro:content";
+import { type ProjectSchema } from "../../../content.config.ts";
 import PostLayout from "../../../layouts/PostLayout.astro";
 import createSlug from "../../../lib/createSlug"
 
@@ -9,7 +9,7 @@ export async function getStaticPaths() {
   
   return postEntries.map((entry) => {
     const projectSlug = createSlug(entry.data.project, entry.data.project);
-    const postSlug = createSlug(entry.data.title, entry.slug);
+    const postSlug = createSlug(entry.data.title, entry.id);
     
     return {
       params: { 
@@ -26,8 +26,8 @@ interface Props {
 }
 
 const { entry } = Astro.props;
-const post: projectSchema = entry.data;
-const { Content } = await entry.render();
+const post: ProjectSchema = entry.data;
+const { Content } = await render(entry);
 
 export const prerender = true;
 ---
