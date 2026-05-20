@@ -1,4 +1,5 @@
-import { z, defineCollection } from "astro:content";
+import { z } from "zod";
+import { defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 
 const schema = z.object({

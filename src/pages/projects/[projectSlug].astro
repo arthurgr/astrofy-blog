@@ -41,7 +41,7 @@ interface Props {
   latestPost: Awaited<ReturnType<typeof getCollection<"projects">>>[0];
 }
 
-const { projectName, posts, latestPost } = Astro.props;
+const { projectName, posts } = Astro.props;
 
 export const prerender = true;
 ---
