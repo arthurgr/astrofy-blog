@@ -12,13 +12,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^5.0.2",
-    "@astrojs/rss": "^4.0.17",
-    "@astrojs/sitemap": "^3.7.1",
+    "@astrojs/mdx": "^5.0.6",
+    "@astrojs/rss": "^4.0.18",
+    "@astrojs/sitemap": "^3.7.2",
     "@astrojs/tailwind": "^6.0.2",
-    "@astrojs/vercel": "^10.0.2",
+    "@astrojs/vercel": "^10.0.7",
     "@vercel/analytics": "^1.5.0",
-    "astro": "^6.0.8",
+    "astro": "^6.3.5",
     "daisyui": "^4.12.24",
     "dayjs": "^1.11.13",
     "react": "^19.0.0",
