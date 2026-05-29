@@ -4,7 +4,6 @@ description: "A scenic trip through New Mexico leads to Ojo Caliente Hot Springs
 pubDate: "Dec 10 2025"
 heroImage: "/blog/post11/welcome-sign.webp"
 tags: ["outside"]
-badge: "NEW"
 ---
 
 Growing up in the heart of Chicago, the West and its natural landscapes were still very new to me. Exploring Colorado and its surrounding states has always been an adventure, but when I first began traveling, I never would have thought that New Mexico would become one of my favorite places on Earth. Even though it’s just south of Colorado, the deserts of New Mexico offer a stark contrast to what I'm now used to. You can see for miles all around you, with unique desert shrubs and plants, various mountains and plateaus peeking over the skyline, and rich cultural influences from both Mexican and Native American communities.
